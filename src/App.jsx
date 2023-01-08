@@ -7,7 +7,7 @@ const App = () => {
 			<Button onClick={() => console.log('clickeado')}>
 			Enviar
 			</Button>
-			Hola mundo otra rama rama dasdsadasdadasd
+			<h1>Hola Mundo</h1>
 		</div>
 		)
 }

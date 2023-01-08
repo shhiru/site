@@ -7,6 +7,7 @@ const App = () => {
 			<Button onClick={() => console.log('clickeado')}>
 			Enviar
 			</Button>
+			Hola dashdahdioahuida
 		</div>
 		)
 }
